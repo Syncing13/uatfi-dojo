@@ -11,19 +11,13 @@ modules:
     challenges:
       - id: fakeobj
         name: Fake Object
-        path: archive/downunderctf/2025/fakeobj
       - id: rw
         name: Read/Write
-        path: archive/downunderctf/2025/rw
       - id: reee
         name: Reee
-        path: archive/downunderctf/2025/reee
       - id: suffering
         name: Suffering
-        path: archive/downunderctf/2025/suffering
       - id: potassium
         name: Potassium
-        path: archive/downunderctf/2025/potassium
       - id: liars-and-cheats
         name: Liars and Cheats
-        path: archive/downunderctf/2025/liars-and-cheats
